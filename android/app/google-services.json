@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582178026401",
+    "project_id": "basecampmovies-56efa",
+    "storage_bucket": "basecampmovies-56efa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582178026401:android:05e98f3d52da4c081151e0",
+        "android_client_info": {
+          "package_name": "com.example.chatai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582178026401-lhmc4g4sf9nrjjksb2k13uu21jcl05ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYcZDKacv8_dt9LeUL7wpwvbLkWJICCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582178026401-lhmc4g4sf9nrjjksb2k13uu21jcl05ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
